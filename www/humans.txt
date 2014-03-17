@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dustin DuPree -- Developer -- @dujoducom
+
+# THANKS
+
+    Milwaukee Art Museum
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    CreateJS

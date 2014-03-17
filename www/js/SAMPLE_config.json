@@ -1,0 +1,4 @@
+var config = {
+	client_id:"YOUR API KEY",
+	tag:"milwaukee"
+}
