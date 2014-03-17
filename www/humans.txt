@@ -6,9 +6,6 @@
     Dustin DuPree -- Developer -- @dujoducom
 
 # THANKS
-
-    Milwaukee Art Museum
-
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
